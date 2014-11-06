@@ -1,0 +1,25 @@
+{
+  "name": "competition-parser",
+  "version": "0.0.0",
+  "description": "competition-parser ==================",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsonresume/competition-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonresume/competition-parser/issues"
+  },
+  "homepage": "https://github.com/jsonresume/competition-parser",
+  "dependencies": {
+    "mongodb": "^1.4.19",
+    "promise": "^6.0.1",
+    "tweets-mongodb-parser": "git://github.com/jsonresume/tweets-mongodb-parser.git",
+    "twit": "^1.1.18"
+  }
+}
