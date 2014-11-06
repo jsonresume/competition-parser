@@ -1,1 +1,1 @@
-web: node parser.js
+worker: node parser.js
